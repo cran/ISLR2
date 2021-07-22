@@ -1,0 +1,27 @@
+Package: ISLR2
+Type: Package
+Title: Introduction to Statistical Learning, Second Edition
+Version: 1.0
+Date: 2021-07-20
+Authors@R: c(person("Gareth", "James", role=c("aut")),
+	     person("Daniela", "Witten", role=c("aut")),
+	     person("Trevor", "Hastie", role=c("aut", "cre"), email = "hastie@stanford.edu"),
+	     person("Rob", "Tibshirani", role=c("aut")),
+	     person("Balasubramanian", "Narasimhan", role=c("ctb")))
+Suggests: MASS
+Description: We provide the collection of data-sets used in the book 'An Introduction to Statistical Learning with Applications in R, Second Edition'. These include many data-sets that we used in the first edition (some with minor changes), and some new datasets.
+Depends: R (>= 3.5.0)
+License: GPL-2
+LazyLoad: yes
+LazyData: yes
+URL: https://www.statlearning.com
+NeedsCompilation: no
+Packaged: 2021-07-20 18:15:47 UTC; hastie
+Author: Gareth James [aut],
+  Daniela Witten [aut],
+  Trevor Hastie [aut, cre],
+  Rob Tibshirani [aut],
+  Balasubramanian Narasimhan [ctb]
+Maintainer: Trevor Hastie <hastie@stanford.edu>
+Repository: CRAN
+Date/Publication: 2021-07-22 06:00:02 UTC
