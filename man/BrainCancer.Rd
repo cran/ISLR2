@@ -14,7 +14,7 @@ data set consisting of survival times for patients diagnosed with brain cancer.
     \item{\code{sex}}{Factor with levels "Female" and "Male"}    
     \item{\code{diagnosis}}{Factor with levels "Meningioma",
       "LG glioma", "HG glioma", and "Other".}    
-    \item{\code{loc}}{Location factor with levels "Intratentorial" and "Supratentorial".}    
+    \item{\code{loc}}{Location factor with levels "Infratentorial" and "Supratentorial".}    
     \item{\code{ki}}{Karnofsky index.}    
     \item{\code{gtv}}{Gross tumor volume, in cubic centimeters.}    
     \item{\code{stereo}}{Stereotactic method factor with levels "SRS"
@@ -24,7 +24,7 @@ data set consisting of survival times for patients diagnosed with brain cancer.
   }
 }
 \source{
-I. Selingerova, H. Dolezelova, I. Horoa, S. Katina, and J. Zelinka.
+I. Selingerova, H. Dolezelova, I. Horova, S. Katina, and J. Zelinka.
 Survival of patients with primary brain tumors: Comparison of two
 statistical approaches. PLoS One, 11(2):e0148733, 2016. \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4749663/}
 }

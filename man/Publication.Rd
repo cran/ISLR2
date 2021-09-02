@@ -15,7 +15,7 @@
     \item{\code{budget}}{Budget of the trial, in millions of dollars.}    
     \item{\code{impact}}{Impact of the trial; this is related to the number of publications.}    
 \item{\code{time}}{Time to publication, in months.}
-\item{\code{status}}{Whether or not the trial was published at time \code{tim}. 1=Published, 0=Not yet published.}
+\item{\code{status}}{Whether or not the trial was published at \code{time}: 1=Published, 0=Not yet published.}
   }
 }
 \source{

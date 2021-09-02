@@ -16,10 +16,10 @@
 \item{\code{age}}{proportion of owner-occupied units built prior to 1940.}
 \item{\code{dis}}{weighted mean of distances to five Boston employment centres.}
 \item{\code{rad}}{index of accessibility to radial highways.}
-\item{\code{tax}}{full-value property-tax rate per \$10,000.}
+\item{\code{tax}}{full-value property-tax rate per $10,000.}
 \item{\code{ptratio}}{pupil-teacher ratio by town.}
 \item{\code{lstat}}{lower status of the population (percent).}
-\item{\code{medv}}{median value of owner-occupied homes in \$1000s.}
+\item{\code{medv}}{median value of owner-occupied homes in $1000s.}
   }
 }
 \source{This dataset was obtained from, and is slightly modified from, the Boston dataset that is part of the MASS library. 

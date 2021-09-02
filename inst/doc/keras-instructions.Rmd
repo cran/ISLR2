@@ -8,7 +8,7 @@ We provide these instructions to help users with the installation of
 `python`,  and the `reticulate ` and `keras` packages used in the labs
 for the *Deep Learning Chapter*  of **An Introduction to
 Statistical Learning, with Applications in R, Second Edition**. We
-thank Balasubramaninan Narasimhan for creating this vignette and the
+thank Balasubramanian Narasimhan for creating this vignette and the
 code that supports it, and for guiding us through this process.
 
 These instructions were confirmed to work on Mac and Windows machines
@@ -24,7 +24,7 @@ enabling fast experimentation. It was primarily written by Francois
 Chollet (Google) in python.
 
 The R package `keras` allows one to interface with the python Keras
-API and is authored by J.J. Allaire (Rstudio).  Key features of Keras
+API and is authored by J.J. Allaire (RStudio).  Key features of Keras
 are:
 
 - Allows the same code to run on CPU or on GPU, seamlessly.

@@ -4,10 +4,10 @@
 \title{
   Auto Data Set
 }
-\description{Gas mileage, horsepower, and other information for 392 vehicles.}
+\description{Gas mileage, horsepower, and other information for 397 vehicles.}
 \usage{Auto}
 \format{
-  A data frame with 392 observations on the following 9 variables.
+  A data frame with 397 observations on the following 9 variables.
   \describe{
     \item{\code{mpg}}{miles per gallon}
     \item{\code{cylinders}}{Number of cylinders between 4 and 8}
@@ -18,9 +18,7 @@
     \item{\code{year}}{Model year (modulo 100)}
     \item{\code{origin}}{Origin of car (1. American, 2. European, 3. Japanese)}
     \item{\code{name}}{Vehicle name}}
-  
-The orginal data contained 408 observations but 16 observations with
-missing values were removed.}
+  }
 \source{This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University. The dataset was used in the 1983 American Statistical Association Exposition.
 }
 \references{
