@@ -1,7 +1,7 @@
-18ce9011f3f7b87bd880007f7e0cb164 *DESCRIPTION
+fb28d65c75141b6a4d1059b347cf11fe *DESCRIPTION
 df390c53434517b304ac5db487184641 *NAMESPACE
 288d4a2c0c473440096942b5ab827851 *README.md
-fad3448f0e1520a851520d0eb3a0abe8 *data/Auto.rda
+853d0be01af3a432fd49e867bf574ed7 *data/Auto.rda
 03d11a1d0885fb3e4e7e885b22b92472 *data/Bikeshare.rda
 6ad2c37b18769311578f7398e5e1ca09 *data/Boston.rda
 985ca4fab6752c1673e7441f91705c3f *data/BrainCancer.rda
@@ -24,14 +24,14 @@ bfc380f2e7f8c958212a17460521ffab *data/Smarket.rda
 2a019214811ddb1090e61a769e176dac *inst/doc/keras-instructions.Rmd
 714888bc0205b32358b4df6ce0c0a869 *inst/doc/keras-instructions.html
 2c97f44480a7d462d226f9b0a3b0f02e *inst/helpers/install.R
-8d83618ed7c5110d0dfae458ba36ae98 *man/Auto.Rd
+9ed933febab302d32d6acef84b65708d *man/Auto.Rd
 af9795863edb3030953719ecf520f33d *man/Bikeshare.Rd
 6fbafd52f9bc6c7c8db407ff78027745 *man/Boston.Rd
 81c5f278cfd7f6f64adbfc603074a5e8 *man/BrainCancer.Rd
 10f706b7dcaf1d362892ff9d127cf4ee *man/Caravan.Rd
 d4a31b8c2fe77141fd1118c2ea6eb8a0 *man/Carseats.Rd
 399037eba7c3bf61a335d1f35fadae76 *man/College.Rd
-8331f6c96edbd082ec5f412af17cd37f *man/Credit.Rd
+0947905227253a6385629880e1d48d9a *man/Credit.Rd
 17a837e49952f1432756b968695c3911 *man/Default.Rd
 df0134b7ee198325c8a877e384c7e17b *man/Fund.Rd
 475972464ac9e74222ee6077881af2ba *man/Hitters.Rd

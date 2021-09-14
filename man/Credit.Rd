@@ -11,7 +11,7 @@
 \format{
   A data frame with 400 observations on a number of variables.
   \describe{
-    \item{\code{Income}}{Income in $10,000's}    
+    \item{\code{Income}}{Income in $1,000's}    
     \item{\code{Limit}}{Credit limit}
     \item{\code{Rating}}{Credit rating}
     \item{\code{Cards}}{Number of credit cards}
