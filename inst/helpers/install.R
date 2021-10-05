@@ -90,7 +90,7 @@ install_miniconda <- function(path = reticulate::miniconda_path(),
 
   # run the installer
   message("* Installing Miniconda -- please wait a moment ...")
-  reticulate:::miniconda_installer_run(installer, path)
+  reticulate:::miniconda_installer_run(installer, path = path)
 
   # validate the install succeeded
   ok <- reticulate:::miniconda_exists(path) && reticulate:::miniconda_test(path)
