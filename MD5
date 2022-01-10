@@ -1,4 +1,4 @@
-991d3420c75d9637336f412ddbdd5fbd *DESCRIPTION
+12124409e6b7ff5228bed244fb4edd32 *DESCRIPTION
 df390c53434517b304ac5db487184641 *NAMESPACE
 288d4a2c0c473440096942b5ab827851 *README.md
 853d0be01af3a432fd49e867bf574ed7 *data/Auto.rda
@@ -23,7 +23,7 @@ bfc380f2e7f8c958212a17460521ffab *data/Smarket.rda
 8faa794384772ff340fa0fb9745a4976 *data/Weekly.rda
 2a019214811ddb1090e61a769e176dac *inst/doc/keras-instructions.Rmd
 714888bc0205b32358b4df6ce0c0a869 *inst/doc/keras-instructions.html
-fe655bf11ce3ae2b3b780c30e0bcc42c *inst/helpers/install.R
+7cbc1fdc542d7a0631240fd1ac039ca2 *inst/helpers/install.R
 9ed933febab302d32d6acef84b65708d *man/Auto.Rd
 af9795863edb3030953719ecf520f33d *man/Bikeshare.Rd
 6fbafd52f9bc6c7c8db407ff78027745 *man/Boston.Rd
