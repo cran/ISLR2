@@ -20,7 +20,7 @@ data set consisting of survival times for patients diagnosed with brain cancer.
     \item{\code{stereo}}{Stereotactic method factor with levels "SRS"
       and "SRT".}    
     \item{\code{status}}{Whether the patient is still alive at the end of the study: 0=Yes, 1=No.}    
-    \item{\code{time}}{Age, in years.}    
+    \item{\code{time}}{Survival time, in months.}    
   }
 }
 \source{
